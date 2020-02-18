@@ -2,3 +2,4 @@
 *.iml
 META-INF/
 target/
+settings.xml
