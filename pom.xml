@@ -4,7 +4,7 @@
 
     <groupId>org.rfc8452.authenticator</groupId>
     <artifactId>Polyval</artifactId>
-    <version>1.3.12-SNAPSHOT</version>
+    <version>1.3.12</version>
 
     <name>POLYVAL</name>
     <description>Polynomial authenticator to provide integrity in AES-GCM-SIV AEAD (Nonce Misuse-Resistant Authenticated Encryption)</description>
