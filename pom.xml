@@ -9,7 +9,6 @@
     <name>POLYVAL</name>
     <description>Polynomial authenticator to provide integrity in AES-GCM-SIV AEAD (Nonce Misuse-Resistant Authenticated Encryption)</description>
     <url>https://github.com/rfc8452/polyval</url>
-    <packaging>pom</packaging>
 
     <dependencies>
         <dependency>
